@@ -1,0 +1,19 @@
+{
+  "name": "checkpoint-5-working-with-node-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laynet/checkpoint-5-working-with-node-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laynet/checkpoint-5-working-with-node-modules/issues"
+  },
+  "homepage": "https://github.com/laynet/checkpoint-5-working-with-node-modules#readme"
+}
